@@ -1,4 +1,4 @@
-#Question 2 Task 1
+# Question 2 Task 1
 
 import random
 
@@ -11,4 +11,4 @@ for i in range(len(day_of_the_week)):
         moods = random.choices(mood)
         time_of_day = random.choices(time_of_the_day)
         weekday = random.choices(day_of_the_week)
-        print(f"On {' '.join(weekday)} {' '.join(time_of_day)} you were {' '.join(moods)}.")
+        print(f"On {' '.join(weekday)} {' '.join(time_of_day)}, you were {' '.join(moods)}.")

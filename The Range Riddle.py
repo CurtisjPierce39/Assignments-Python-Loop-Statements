@@ -1,5 +1,4 @@
-#Question 1 Task 1
-
+# Question 1 Task 1
 import random
 
 mood = ["Happy", "Sad", "Energetic", "Calm", "Happy", "Sad", "Energetic"]
